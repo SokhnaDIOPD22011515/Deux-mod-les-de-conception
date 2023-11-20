@@ -1,1 +1,1 @@
-# Deux-mod-les-de-conception
+# Deux modèles de conception
